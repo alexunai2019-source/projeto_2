@@ -1,4 +1,4 @@
-# projeto_2Projeto de Análise de Dados da Produção de Soja no Brasil
+#projeto_2Pro jeto de Análise de Dados da Produção de Soja no Brasil
 Descrição
 
 Este projeto foi desenvolvido em Python com o objetivo de realizar análises exploratórias da produção de soja no Brasil utilizando técnicas de Ciência de Dados. O sistema permite carregar dados históricos da cultura, gerar estatísticas descritivas e visualizar o comportamento da produção ao longo dos anos por meio de gráficos.
@@ -11,10 +11,20 @@ Aplicar conceitos de análise de dados utilizando Python.
 Gerar visualizações gráficas para facilitar a interpretação dos resultados.
 Tecnologias Utilizadas
 Python 3
+
+Linguagem de programação utilizada para o desenvolvimento de todo o projeto. O Python é amplamente empregado em Ciência de Dados devido à sua simplicidade, flexibilidade e grande quantidade de bibliotecas voltadas para análise de dados e visualização de informações.
+
 Pandas
+
+Biblioteca utilizada para leitura, organização e manipulação dos dados agrícolas. No projeto, foi empregada para importar o arquivo CSV contendo os dados da produção de soja, organizar as informações em tabelas e realizar análises estatísticas descritivas.
+
 Matplotlib
+
+Biblioteca responsável pela criação dos gráficos utilizados na análise. Permite representar visualmente a evolução da produção de soja ao longo dos anos, facilitando a interpretação dos resultados e a identificação de tendências produtivas.
+
 Jupyter Notebook
-VS Code
+
+Ambiente interativo utilizado para o desenvolvimento e execução das análises. Possibilita a execução de códigos por células, além da integração entre programação, visualização de gráficos e documentação dos resultados em um único arquivo.
 Estrutura do Projeto
 Projeto2_aula/
 │
